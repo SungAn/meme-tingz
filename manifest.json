@@ -1,19 +1,19 @@
 {
   "manifest_version": 2,
 
-  "name": "GTmetrix Analyzer Plugin",
+  "name": "GIF Generator",
   "description": "This extension will capture dank videos and convert gifs",
   "version": "1.0",
 
   "browser_action": {
      "default_icon": {
-        "16": "icon/16-uganda.png",
-        "48": "icon/48-uganda.png",
-        "128": "icon/128-uganda.png"
+        "16": "icons/16-uganda.png",
+        "48": "icons/48-uganda.png",
+        "128": "icons/128-uganda.png"
      },
      "default_popup": "popup.html"
   },
   "permissions": [
-   "activeTab"
+      "activeTab"
    ]
 }
